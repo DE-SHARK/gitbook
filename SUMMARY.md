@@ -4,3 +4,4 @@
 * [玩家共同守则](wan-jia-gong-tong-shou-ze.md)
 * [宣传页](xuan-chuan-ye.md)
 * [机器列表](ji-qi-lie-biao.md)
+* [宣传页](xuan-chuan-ye-1.md)
