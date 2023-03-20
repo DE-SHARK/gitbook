@@ -156,6 +156,8 @@
 
 [火花spark](https://www.mcmod.cn/class/4073.html)
 
+[储物抽屉Storage Drawers](https://www.mcmod.cn/class/408.html)
+
 ## 客户端mods：
 
 [鼠标手势Mouse Tweaks](https://www.mcmod.cn/class/1162.html)
@@ -218,7 +220,25 @@
 
 [JEI扩展JEI Integration](https://www.mcmod.cn/class/2077.html)
 
-[储物抽屉Storage Drawers](https://www.mcmod.cn/class/408.html)
+[FPS减速器 FPS Reducer](https://www.mcmod.cn/class/1815.html)
+
+## 铷全家桶：
+
+[铷 (Rubidium)](https://www.mcmod.cn/class/5608.html)
+
+[BRVSB更好的铷视频设置按钮 (Better Rubidium Video Settings Button)](https://www.mcmod.cn/class/7402.html)
+
+[镁/铷：附属 (Magnesium/Rubidium Extras)](https://www.mcmod.cn/class/5312.html)
+
+[镁/铷：动态光源 (Magnesium/Rubidium Dynamic Lights)](https://www.mcmod.cn/class/5302.html)
+
+[铷 · 扩展 (Rubidium Extra)](https://www.mcmod.cn/class/7180.html)
+
+[\[TRO\]TexTrue的铷视频界面 (TexTrue's Rubidium Options)](https://www.mcmod.cn/class/7329.html)
+
+[Oculus](https://www.mcmod.cn/class/5741.html)
+
+[Iris & Oculus Flywheel Compat](https://www.mcmod.cn/class/7283.html)
 
 ## 环境类mod：
 
@@ -259,24 +279,6 @@
 [KubeJS Mekanism](https://www.mcmod.cn/class/5161.html)
 
 [ProbeJS](https://www.mcmod.cn/class/6486.html)
-
-## 铷全家桶：
-
-[铷 (Rubidium)](https://www.mcmod.cn/class/5608.html)
-
-[BRVSB更好的铷视频设置按钮 (Better Rubidium Video Settings Button)](https://www.mcmod.cn/class/7402.html)
-
-[镁/铷：附属 (Magnesium/Rubidium Extras)](https://www.mcmod.cn/class/5312.html)
-
-[镁/铷：动态光源 (Magnesium/Rubidium Dynamic Lights)](https://www.mcmod.cn/class/5302.html)
-
-[铷 · 扩展 (Rubidium Extra)](https://www.mcmod.cn/class/7180.html)
-
-[\[TRO\]TexTrue的铷视频界面 (TexTrue's Rubidium Options)](https://www.mcmod.cn/class/7329.html)
-
-[Oculus](https://www.mcmod.cn/class/5741.html)
-
-[Iris & Oculus Flywheel Compat](https://www.mcmod.cn/class/7283.html)
 
 ## 优化模组
 
