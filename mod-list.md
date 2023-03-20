@@ -36,10 +36,6 @@
 
 [\[JEI\]JEI物品管理器Just Enough Items](https://www.mcmod.cn/class/459.html)
 
-[\[JER\]Just Enough Resources](https://www.mcmod.cn/class/855.html)
-
-[\[JERI\]JER集成JER Integration](https://www.mcmod.cn/class/5611.html)
-
 [作物盛景Croptopia](https://www.mcmod.cn/class/4225.html)
 
 [Kotlin for Forge](https://www.mcmod.cn/class/2890.html)
@@ -158,87 +154,93 @@
 
 [储物抽屉Storage Drawers](https://www.mcmod.cn/class/408.html)
 
+[\[JM\]旅行地图Journey Map](https://www.mcmod.cn/class/198.html)
+
 ## 客户端mods：
-
-[鼠标手势Mouse Tweaks](https://www.mcmod.cn/class/1162.html)
-
-[无缝加载界面Seamless Loading Screen](https://www.mcmod.cn/class/3912.html)
-
-[MC百科资料搜索-重生MCMOD Search Reborn](https://www.mcmod.cn/class/6184.html)
-
-[键位冲突显示Controlling](https://www.mcmod.cn/class/1191.html)
-
-[模组目录Catalogue](https://www.mcmod.cn/class/3743.html)
-
-[\[BP\]更好的延迟显示Better Ping Display](https://www.mcmod.cn/class/2950.html)
-
-[\[CTM\]连接纹理ConnectedTexturesMod](https://www.mcmod.cn/class/837.html)
-
-[\[i18n\]自动汉化更新I18nUpdateMod](https://www.mcmod.cn/class/1188.html)
-
-[Extended Clouds](https://www.mcmod.cn/class/6452.html)
-
-[实体渲染机制优化Entity Culling Fabric/Forge](https://www.mcmod.cn/class/3629.html)
-
-[\[JECh\]通用拼音搜索Just Enough Characters](https://www.mcmod.cn/class/840.html)
 
 [\[AS\]苹果皮AppleSkin](https://www.mcmod.cn/class/744.html)
 
-[\[JM\]旅行地图Journey Map](https://www.mcmod.cn/class/198.html)
-
-[\[NEC\]崩溃优化Not Enough Crashes](https://www.mcmod.cn/class/2441.html)
-
-[禁用实验性设置警告Shutup Experimental Settings!](https://www.mcmod.cn/class/3448.html)
-
-[\[MUI\]现代化 UIModern UI](https://www.mcmod.cn/class/2454.html)
+[更好的进度Better Advancements](https://www.mcmod.cn/class/1530.html)
 
 [更好的F3BetterF3](https://www.mcmod.cn/class/3525.html)
 
-[输入法冲突修复IMBlocker](https://www.mcmod.cn/class/3358.html)
-
-[截图到剪贴板Screenshot to Clipboard](https://www.mcmod.cn/class/2733.html)
-
-[Traveler's Titles](https://www.mcmod.cn/class/4471.html)
-
-[客户端微调Client Tweaks](https://www.mcmod.cn/class/2012.html)
-
-[更好的进度Better Advancements](https://www.mcmod.cn/class/1530.html)
-
-[更多动画Not Enough Animations](https://www.mcmod.cn/class/4378.html)
+[\[BP\]更好的延迟显示Better Ping Display](https://www.mcmod.cn/class/2950.html)
 
 [无边框全屏Borderless Window](https://www.mcmod.cn/class/4630.html)
 
+[模组目录Catalogue](https://www.mcmod.cn/class/3743.html)
+
+[客户端微调Client Tweaks](https://www.mcmod.cn/class/2012.html)
+
+[键位冲突显示Controlling](https://www.mcmod.cn/class/1191.html)
+
+[\[CTM\]连接纹理ConnectedTexturesMod](https://www.mcmod.cn/class/837.html)
+
+[实体渲染机制优化Entity Culling Fabric/Forge](https://www.mcmod.cn/class/3629.html)
+
+[Extended Clouds](https://www.mcmod.cn/class/6452.html)
+
 [Farsight](https://www.mcmod.cn/class/5224.html)
-
-[鼠标手势Mouse Tweaks](https://www.mcmod.cn/class/1162.html)
-
-[libIPN](https://www.mcmod.cn/class/7713.html)
-
-[\[IPN\]一键背包整理NextInventory Profiles Next](https://www.mcmod.cn/class/4104.html)
-
-[Just Enough Immersive Multiblocks](https://www.mcmod.cn/class/7731.html)
-
-[JEI扩展JEI Integration](https://www.mcmod.cn/class/2077.html)
 
 [FPS减速器 FPS Reducer](https://www.mcmod.cn/class/1815.html)
 
-## 铷全家桶：
+[\[i18n\]自动汉化更新I18nUpdateMod](https://www.mcmod.cn/class/1188.html)
 
-[铷 (Rubidium)](https://www.mcmod.cn/class/5608.html)
+[输入法冲突修复IMBlocker](https://www.mcmod.cn/class/3358.html)
+
+[\[IPN\]一键背包整理NextInventory Profiles Next](https://www.mcmod.cn/class/4104.html)
+
+[\[JECh\]通用拼音搜索Just Enough Characters](https://www.mcmod.cn/class/840.html)
+
+[JEI扩展JEI Integration](https://www.mcmod.cn/class/2077.html)
+
+[Just Enough Immersive Multiblocks](https://www.mcmod.cn/class/7731.html)
+
+[\[JERI\]JER集成JER Integration](https://www.mcmod.cn/class/5611.html)
+
+[\[JER\]Just Enough Resources](https://www.mcmod.cn/class/855.html)
+
+[libIPN](https://www.mcmod.cn/class/7713.html) - 一键背包整理前置mod
+
+[lightfall-client](https://github.com/ArclightPowered/lightfall-client)
+
+[MC百科资料搜索-重生MCMOD Search Reborn](https://www.mcmod.cn/class/6184.html)
+
+[\[MUI\]现代化 UIModern UI](https://www.mcmod.cn/class/2454.html)
+
+[鼠标手势Mouse Tweaks](https://www.mcmod.cn/class/1162.html)
+
+[更多动画Not Enough Animations](https://www.mcmod.cn/class/4378.html)
+
+[\[NEC\]崩溃优化Not Enough Crashes](https://www.mcmod.cn/class/2441.html)
+
+[ProbeJS](https://www.mcmod.cn/class/6486.html) - Kubejs 附属mod
+
+[截图到剪贴板Screenshot to Clipboard](https://www.mcmod.cn/class/2733.html)
+
+[无缝加载界面Seamless Loading Screen](https://www.mcmod.cn/class/3912.html)
+
+[禁用实验性设置警告Shutup Experimental Settings!](https://www.mcmod.cn/class/3448.html)
+
+[Traveler's Titles](https://www.mcmod.cn/class/4471.html)
+
+## 铷全家桶：
 
 [BRVSB更好的铷视频设置按钮 (Better Rubidium Video Settings Button)](https://www.mcmod.cn/class/7402.html)
 
+[镁/铷：动态光源 (Magnesium/Rubidium Dynamic Lights)](https://www.mcmod.cn/class/5302.html)
+
+[Iris & Oculus Flywheel Compat](https://www.mcmod.cn/class/7283.html)
+
+[Oculus](https://www.mcmod.cn/class/5741.html)
+
 [镁/铷：附属 (Magnesium/Rubidium Extras)](https://www.mcmod.cn/class/5312.html)
 
-[镁/铷：动态光源 (Magnesium/Rubidium Dynamic Lights)](https://www.mcmod.cn/class/5302.html)
+[铷 (Rubidium)](https://www.mcmod.cn/class/5608.html)
 
 [铷 · 扩展 (Rubidium Extra)](https://www.mcmod.cn/class/7180.html)
 
 [\[TRO\]TexTrue的铷视频界面 (TexTrue's Rubidium Options)](https://www.mcmod.cn/class/7329.html)
-
-[Oculus](https://www.mcmod.cn/class/5741.html)
-
-[Iris & Oculus Flywheel Compat](https://www.mcmod.cn/class/7283.html)
 
 ## 环境类mod：
 
@@ -277,8 +279,6 @@
 [KubeJS Immersive Engineering](https://www.mcmod.cn/class/5160.html)
 
 [KubeJS Mekanism](https://www.mcmod.cn/class/5161.html)
-
-[ProbeJS](https://www.mcmod.cn/class/6486.html)
 
 ## 优化模组
 
