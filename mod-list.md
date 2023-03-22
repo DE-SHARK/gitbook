@@ -156,6 +156,12 @@
 
 [\[JM\]旅行地图Journey Map](https://www.mcmod.cn/class/198.html)
 
+未排序：
+
+[Immersive Snow](https://www.mcmod.cn/class/9235.html)
+
+[冷汗Cold Sweat](https://www.mcmod.cn/class/4383.html)
+
 ## 客户端mods：
 
 [\[AS\]苹果皮AppleSkin](https://www.mcmod.cn/class/744.html)
