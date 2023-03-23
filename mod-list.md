@@ -42,8 +42,6 @@
 
 [Architectury API](https://www.mcmod.cn/class/3434.html)
 
-[盔甲内衬Armor Underwear Mod](https://www.mcmod.cn/class/1992.html)
-
 [胡萝卜库Carrots Library](https://www.mcmod.cn/class/2090.html)
 
 [静谧四季/季节Serene Seasons](https://www.mcmod.cn/class/1132.html)
