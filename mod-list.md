@@ -154,11 +154,13 @@
 
 [\[JM\]旅行地图Journey Map](https://www.mcmod.cn/class/198.html)
 
-未排序：
-
 [Immersive Snow](https://www.mcmod.cn/class/9235.html)
 
 [冷汗Cold Sweat](https://www.mcmod.cn/class/4383.html)
+
+[飞越地球Beyond Earth/Space-BossTools](https://www.mcmod.cn/class/2680.html)
+
+[Unlimited Fluidity](https://www.curseforge.com/minecraft/mc-mods/unlimited-fluidity)
 
 ## 客户端mods：
 
