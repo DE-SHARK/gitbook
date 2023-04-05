@@ -230,6 +230,8 @@
 
 [Traveler's Titles](https://www.mcmod.cn/class/4471.html)
 
+[\[PRP-Arch/ArchPRP\]帕秋莉手册加载补丁跨平台版](https://www.mcmod.cn/class/8906.html)
+
 ## 铷全家桶：
 
 [BRVSB更好的铷视频设置按钮 (Better Rubidium Video Settings Button)](https://www.mcmod.cn/class/7402.html)
