@@ -32,8 +32,6 @@
 
 [\[TiC3\]匠魂3Tinkers' Construct 3](https://www.mcmod.cn/class/3725.html)
 
-[匠魂生存Tinkers' Survival](https://www.mcmod.cn/class/2378.html)
-
 [\[JEI\]JEI物品管理器Just Enough Items](https://www.mcmod.cn/class/459.html)
 
 [作物盛景Croptopia](https://www.mcmod.cn/class/4225.html)
@@ -108,10 +106,6 @@
 
 [均衡饮食Diet](https://www.mcmod.cn/class/3599.html)
 
-[井然有矿Oreganized Mod](https://www.mcmod.cn/class/7034.html)
-
-[\[PnC\]气动工艺PneumaticCraft: Repressurized](https://www.mcmod.cn/class/270.html)
-
 [多态合成Polymorph](https://www.mcmod.cn/class/2895.html)
 
 [物理声效重制版Sound Physics Remastered](https://www.mcmod.cn/class/8197.html)
@@ -143,10 +137,6 @@
 [SuperMartijn642's Core Lib](https://www.mcmod.cn/class/4227.html)
 
 [SuperMartijn642's Config Lib](https://www.mcmod.cn/class/4682.html)
-
-[\[AM\]Alex 的生物Alex's Mobs](https://www.mcmod.cn/class/3318.html)
-
-[Citadel](https://www.mcmod.cn/class/2232.html)
 
 [火花spark](https://www.mcmod.cn/class/4073.html)
 
@@ -222,6 +212,8 @@
 
 [ProbeJS](https://www.mcmod.cn/class/6486.html) - Kubejs 附属mod
 
+[\[PRP-Arch/ArchPRP\]帕秋莉手册加载补丁跨平台版](https://www.mcmod.cn/class/8906.html)
+
 [截图到剪贴板Screenshot to Clipboard](https://www.mcmod.cn/class/2733.html)
 
 [无缝加载界面Seamless Loading Screen](https://www.mcmod.cn/class/3912.html)
@@ -229,8 +221,6 @@
 [禁用实验性设置警告Shutup Experimental Settings!](https://www.mcmod.cn/class/3448.html)
 
 [Traveler's Titles](https://www.mcmod.cn/class/4471.html)
-
-[\[PRP-Arch/ArchPRP\]帕秋莉手册加载补丁跨平台版](https://www.mcmod.cn/class/8906.html)
 
 ## 铷全家桶：
 
