@@ -240,6 +240,8 @@
 
 [\[TRO\]TexTrue的铷视频界面 (TexTrue's Rubidium Options)](https://www.mcmod.cn/class/7329.html)
 
+[ImmediatelyFast Reforged](https://www.mcmod.cn/class/9748.html)
+
 ## 环境类mod：
 
 [Terralith](https://www.mcmod.cn/class/4557.html)
